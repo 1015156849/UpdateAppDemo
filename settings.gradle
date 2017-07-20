@@ -1,0 +1,1 @@
+include ':app', ':updateapplib', ':X5WebDemo'
